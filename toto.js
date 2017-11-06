@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-zsalutdzludadzipgjzprgrgrgp
-=======
-zcoucoudcouzdadzipgjzprgrgrgp
->>>>>>> dev
+Toto vient de se faire modifier
