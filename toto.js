@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 zsalutdzludadzipgjzprgrgrgp
+=======
+zcoucoudcouzdadzipgjzprgrgrgp
+>>>>>>> dev
